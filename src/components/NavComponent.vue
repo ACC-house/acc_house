@@ -21,8 +21,8 @@
 
         
         <div class="ml-auto">
-          <router-link to="/contact" class="btn btn-outline-light mx-2">Contacto</router-link>
-           <!-- <button class="btn btn-outline-light mx-2 ">Contacto</button>  -->
+          <router-link to="/boton" class="btn btn-outline-light mx-2">Contacto</router-link>
+          
         </div>
       </div>
     </nav>
